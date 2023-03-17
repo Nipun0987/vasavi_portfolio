@@ -102,14 +102,14 @@
                 </p>
             </div>
             <div class="row">
-                <div class="col-lg-4">
-                    <img src=" assets/images/about.jpg" class="img-fluid aboutimg" alt="" />
+                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                    <img src=" assets/images/about.jpg" class="aboutimg" alt="" />
                 </div>
-                <div class="col-lg-8 pt-4 pt-lg-0 content">
+                <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 pt-4 pt-lg-0 content">
                     <h3>Web Designer &amp; Web Developer.</h3>
                     <p class="fst-italic">Here are some of my personal details.</p>
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <ul>
                                 <li>
                                     <i class="bi bi-chevron-right"></i>
@@ -129,7 +129,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <ul>
                                 <li>
                                     <i class="bi bi-chevron-right"></i>
